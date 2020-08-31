@@ -1,4 +1,4 @@
-Project Live At: https://covid-19-tracker-b359c.web.app/
+Project Live At: https://covid-19-tracker-b359c.web.app/ <br />
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
